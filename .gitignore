@@ -23,6 +23,11 @@ __pycache__/
 # Temporary files / logs
 *.log
 
+# Redis
+dump.rdb
+
+# Uploads
+uploads/
 # Document Uploads (local dev storage — may contain sensitive files)
 uploads/
 
